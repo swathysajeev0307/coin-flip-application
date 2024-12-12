@@ -52,7 +52,7 @@ button:hover{
 }
 
 .headsClass{
-    background-image: url("/images/heads.webp");
+    background-image: url("./images/heads.webp");
 }
 
 .animate-heads{
@@ -72,7 +72,7 @@ button:hover{
 }
 
 .tailsClass{
-    background-image: url("/images/tails.webp");
+    background-image: url("./images/tails.webp");
     transform: rotateY(-180deg);
 }
 
